@@ -1,0 +1,15 @@
+{
+  "name": "Hairless Agent",
+  "symbol": "NOHAIR",
+  "description": "This token is for all Agents without hairs, dont be sad and buy it to make me rich!",
+  "image": "https://raw.githubusercontent.com/philippmw/test1/main/1200.png",
+  "attributes": [],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/philippmw/test1/main/1200.png",
+        "type": "image/png"
+      }
+    ]
+  }
+}
